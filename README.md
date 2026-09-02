@@ -3,3 +3,5 @@
 **2_EwaldSum**: Decomposing the long and short range electrostatic interactions
 
 **3_RDF**: Physical interpretation of what the RDF curves have to offer, what the meaning of peaks or dip or the relative positions of peaks is.
+
+**4_ResidenceT**: Consists of different methods to find the residence times in a hydration shell of a species.
