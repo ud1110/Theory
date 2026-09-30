@@ -5,3 +5,5 @@
 **3_RDF**: Physical interpretation of what the RDF curves have to offer, what the meaning of peaks or dip or the relative positions of peaks is.
 
 **4_ResidenceT**: Consists of different methods to find the residence times in a hydration shell of a species.
+
+**5_StructureFactor**: How structure factor is computed, and how to interpret it (also, in experiments, S(q) computed is the weighted Structure Factor, which considers all atoms, not just one kind of atom)
